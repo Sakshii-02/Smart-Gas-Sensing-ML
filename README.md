@@ -55,4 +55,10 @@ Each sample includes:
 
 - The trained classification model can successfully distinguish between all 7 gas mixtures with high accuracy.
 - Random Forest performed slightly better than SVM for this dataset.
+- Model Accuracy (Random Forest): 92.31%
+
+## Future Work
+- Use deep learning models for improved classification
+- Real-time sensor monitoring integration
+- Extend model to detect more gases or concentrations
 
