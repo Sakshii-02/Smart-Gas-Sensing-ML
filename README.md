@@ -3,7 +3,7 @@
 This project focuses on analyzing sensor data collected from a gas sensor array exposed to **seven different gas mixtures** and building a machine learning model to predict the type of gas mixture based on sensor readings. This kind of work is essential in environmental monitoring, industrial safety, and smart sensor applications.
 
 
-## 📦 Dataset Description
+## Dataset Description
 
 The dataset contains sensor readings for the following **7 gas mixtures**:
 
